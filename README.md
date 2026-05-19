@@ -98,9 +98,8 @@ int main(int argc, char *argv[]) {
 
 
 ## OUTPUT
-<img width="836" height="513" alt="Screenshot 2026-05-19 at 8 06 36 PM" src="https://github.com/user-attachments/assets/68554392-e605-4fbb-a64b-9310612ceb5e" />
 
-
+<img width="1602" height="982" alt="Screenshot 2026-05-19 at 8 06 36 PM" src="https://github.com/user-attachments/assets/a555697d-1481-40c4-8e71-7ca41c20b7ae" />
 
 
 
